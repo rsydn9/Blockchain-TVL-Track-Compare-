@@ -1,0 +1,3 @@
+messari==0.0.1
+matplotlib==3.3.4
+DeFiLlama==1.1.0
